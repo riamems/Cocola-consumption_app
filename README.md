@@ -20,12 +20,13 @@ To install and run this project locally, follow these steps:
 1. Clone the repository:
    ```bash
    git clone https://github.com/username/cocola-consumption-app.git
-   cd cocola-consumption-app
-  python3 -m venv venv
-source venv/bin/activate
-psql -U postgres -f setup.sql
-pip install -r requirements.txt
-python manage.py runserver
+2.  cd cocola-consumption-app
+ 3.  python3 -m venv venv
+4. source venv/bin/activate
+5. psql -U postgres -f setup.sql
+6. pip install -r requirements.txt
+7.  python manage.py runserver
 ### **4. Usage**
 Provide detailed instructions on how to use the project, including examples if necessary.
+###https://www.linkedin.com/pulse/introducing-cocola-consumption-app-project-gloria-memba-gyvyf/?trackingId=7Ouemtcrope9fZbdLvHpyA%3D%3D
 
